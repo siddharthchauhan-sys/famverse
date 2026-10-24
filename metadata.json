@@ -1,0 +1,6 @@
+{
+  "name": "FamFest 3D - Virtual Campus & Rewards",
+  "description": "Explore the 3D FamFest campus, visit affiliate brand stalls, collect FamCoins, and unlock exclusive discounts and coupons.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
